@@ -36,7 +36,6 @@
     text-decoration: none;
     color: #000;
     text-align: center;
-    transition: all .3s ease;
 
     &:hover {
       cursor: pointer;
@@ -85,7 +84,7 @@
       cursor: pointer;
       color: #202124;
       font-size: 14px;
-      
+
       &:hover {
         text-decoration: underline;
       }
