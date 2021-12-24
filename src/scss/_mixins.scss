@@ -11,8 +11,8 @@
     font-size: 18px;
   }
 
-  &:active, .active {
-    color: $color
+  &:active, &.active {
+    color: $color;
   }
 
   &:hover {
